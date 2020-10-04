@@ -1,0 +1,75 @@
+body {
+  background-color: #fdbb77;
+}
+
+img.logo {
+  width: 150px;
+  margin-left: 50%;
+  transform: translate(-50%, 10%);
+}
+
+.title {
+  color: #be0c11;
+  text-align: center;
+}
+
+.burger_list {
+  list-style: none;
+  width: 40%;
+  margin-left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+input#ca {
+  width: 20%;
+  height: auto;
+  font-size: 32px;
+  margin-left: 50%;
+  transform: translate(-50%, 0%);
+}
+
+.submit_btn {
+  margin-left: 50%;
+  transform: translate(-50%, 0%);
+  font-size: 18px;
+  background-color: #1d6ac2;
+  color: white;
+}
+
+.devoured_list {
+  list-style: none;
+}
+ul.devoured_list > li {
+  padding: 5px;
+  margin: 5px;
+  background-color: #be0c11;
+  color: white;
+  width: fit-content;
+}
+
+ul.burger_list li {
+  padding: 5px;
+  margin: 5px;
+  background: #28a745;
+  width: 100%;
+}
+li {
+  font-size: 18px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+span.change-devour {
+  padding-left: 30px;
+}
