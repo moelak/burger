@@ -8,7 +8,6 @@ In this assignment, I'll create a burger logger with MySQL, Node, Express, Handl
 ### Note
 
 This assignment is deployed in Heroku.
-Here is the Link: https://mysterious-refuge-15749.herokuapp.com/
 
 
 ### Story
